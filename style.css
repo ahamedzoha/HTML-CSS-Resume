@@ -4,6 +4,7 @@ body{
     width: 80%;
     padding: 5%;
     margin: 0 auto;
+
 }
 .main-image{
     width: 100%;
@@ -23,7 +24,6 @@ img {
     padding-top: 2%;
     border-radius: 0px 0px 5px 5px;
     background-color: rgb(13, 198, 74);
-
 }
 .container {
     margin: 0 auto;
