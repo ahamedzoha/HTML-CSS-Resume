@@ -1,0 +1,69 @@
+@media screen and (max-width: 1024px) {
+	
+	.landingimg{
+		max-width: 55%;
+		float: right;
+		margin-top: 20px;
+	}
+	.headers{
+		max-width: 43%;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.landingimg{
+		max-width: 100%;
+	}
+	.headers{
+		max-width: 100%;
+		margin-left: 0;
+	}
+}
+
+@media screen and (max-width: 640px){
+	.landingimg{
+		
+	}
+	.headers{
+		max-width: 
+	}
+}
+
+@media screen and (max-width: 480px){
+	.h1, h1{
+		font-size: 25px;
+	}
+	.h2, h2{
+		font-size: 20px;
+	}
+	.h3, h3{
+		font-size: 17px;
+	}
+	input[type=text]{
+		font-size: 12px;
+		padding: 6px;
+	}
+	input[type="submit"]{
+		font-size: 12px;
+		padding: 7px 20px;
+	}
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
